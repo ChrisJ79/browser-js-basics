@@ -1,9 +1,9 @@
 // Part 1
 
 
-// alert("Hello Boulder!");
+alert("Hello Boulder!");
 
-// document.write("Hello Boulder!");
+document.write("Hello Boulder!");
 
 
 // Part 2
@@ -13,11 +13,3 @@
 
 var personsName = prompt("What is your name?");
 document.write("Hello " + personsName + "!");
-
-
-
-
-
-
-
-
